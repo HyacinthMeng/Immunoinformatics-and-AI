@@ -1,9 +1,16 @@
 # Immunoinformatics-and-AI
+
+
+**This is only a partial and outdated version.**
+
+
+
+
+
+
+
+
 ## Computational immunology
-
-
-
-
 
 ### ML  and  Computational immunology lab
 
