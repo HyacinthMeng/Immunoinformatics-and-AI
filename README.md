@@ -9,7 +9,7 @@
 
 #### [khatrilab](https://khatrilab.stanford.edu/)
 
-**快速达到 超越这个实验室的24-25**
+
 
 ![image-20240709202700249](https://riyuetongcuo2022-1301903439.cos.ap-shanghai.myqcloud.com/images/image-20240709202700249.png)
 
@@ -377,8 +377,26 @@ https://github.com/search?q=Immunogenomics&type=repositories
 
 
 
-####  Book 1   Data Science for Immunologists
+####  Book 1   
 
+**Immunoinformatics**
+Third Edition
+Edited by
+Namrata Tomar
+Department of BioMedical Engineering, Medical College of Wisconsin, Milwaukee, WI, USA
+
+
+**Data Science for Immunologists**  https://www.datascienceforimmunologists.com/
+
+
+
+**Mass Cytometry
+Methods and Protocols**
+Edited by
+Helen M. McGuire
+Discipline of Pathology, The University of Sydney, Camperdown, NSW, Australia
+Thomas M. Ashhurst
+Sydney Cytometry Facility, The University of Sydney and Centenary Institute, Camperdown, NSW, Australia
 
 
 
@@ -411,7 +429,9 @@ Editors: Carmen Molina-París • Grant Lythe (2021)
 
 
 
-**ImmuML**   + R  +  **Python Framework**
+
+**ImmuML   + R  +  Python Framework**---https://immuneml.uio.no/       
+https://www.nature.com/articles/s42256-021-00413-z#:~:text=We%20demonstrate%20the%20broad%20applicability%20of%20immuneML%20by,applying%20a%20novel%20deep%20learning%20method%20for%20antig
 
 
 
